@@ -3,8 +3,8 @@
 		<thead>
 			<tr>
 				<th>Nombre</th>
-				<th>Apellido</th>
 				<th>Correo</th>
+				<th colspan="2">Acciones</th>
 			</tr>
 		</thead>
 		<tbody>
