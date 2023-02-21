@@ -15,8 +15,8 @@
             </div>
             <div id="tabla"></div>             
         </div>        
-        <script src="js/ajax.js"></script>
-        <script src="js/usuarios/validaciones.js"></script>  
-        <script src="js/usuarios/index.js"></script>    
+        <script src="./js/ajax.js"></script>
+        <script src="./js/usuarios/validaciones.js"></script>  
+        <script src="./js/usuarios/index.js"></script>    
     </body>
 </html>
